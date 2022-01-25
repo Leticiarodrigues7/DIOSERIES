@@ -1,0 +1,15 @@
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.csproj.AssemblyReference.cache
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.AssemblyInfoInputs.cache
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.AssemblyInfo.cs
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\DIOSERIES\bin\Debug\net6.0\DIOSERIES.exe
+C:\Users\Leticia\Desktop\DIOSERIES\bin\Debug\net6.0\DIOSERIES.deps.json
+C:\Users\Leticia\Desktop\DIOSERIES\bin\Debug\net6.0\DIOSERIES.runtimeconfig.json
+C:\Users\Leticia\Desktop\DIOSERIES\bin\Debug\net6.0\DIOSERIES.dll
+C:\Users\Leticia\Desktop\DIOSERIES\bin\Debug\net6.0\ref\DIOSERIES.dll
+C:\Users\Leticia\Desktop\DIOSERIES\bin\Debug\net6.0\DIOSERIES.pdb
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.dll
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\ref\DIOSERIES.dll
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.pdb
+C:\Users\Leticia\Desktop\DIOSERIES\obj\Debug\net6.0\DIOSERIES.genruntimeconfig.cache
